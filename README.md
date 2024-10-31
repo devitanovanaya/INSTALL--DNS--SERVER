@@ -1,5 +1,5 @@
 # INSTALL--DNS--SERVER
-
+  Langkah Kerja Masukkan cd 2 dan 3
 # apt-cdrom menambahkan
 # pembaruan apt-get
 
